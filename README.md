@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning React.Js
-- 👯 I’m looking to collaborate on gaming proyects
+- 👯 I’m open to work
 - 📫 How to reach me: 
 
 <a href="mailto:vernaerik@gmail.com">

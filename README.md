@@ -6,7 +6,7 @@
 - 📫 How to reach me: 
 
 <a href="mailto:vernaerik@gmail.com">
-<img align="left" alt="Erik Verna Gmail" width="22px" src="" />
+<img align="left" alt="Erik Verna Gmail" width="22px" src="https://icongr.am/octicons/mail.svg?size=148&color=5799c1" />
 </a>
 
 <a href="https://www.linkedin.com/in/erik-tom%C3%A1s-verna-a221151b1/">

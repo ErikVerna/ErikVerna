@@ -13,6 +13,8 @@
 <img align="left" alt="Erik Verna LnkIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
+<br />
+
 <hr />
 
 ### Languages and tools that I am familiar with
@@ -30,7 +32,7 @@
 
 <!-- CSS -->
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-<img align="left" alt="CSS" width="26px" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=b31919" />
+<img align="left" alt="CSS" width="26px" src="https://icongr.am/devicon/css3-original.svg?size=148&color=51388a" />
 </a>
 
 <!--Bootstrap-->

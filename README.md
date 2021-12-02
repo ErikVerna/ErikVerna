@@ -1,11 +1,10 @@
-## Hello there!.   I´m Erik 👋
+## Hello there!.   I´m Erik 👋, a Trainee Web Developer!
 
 
 - 🌱 I’m currently learning React.Js
 - 👯 I’m looking to collaborate on gaming proyects
 - 📫 How to reach me: 
 
-<br/>
 <a href="https://www.instagram.com/erikvernaa/">
 <img align="left" alt="Erik Verna IG" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
@@ -25,13 +24,18 @@
 
 
 <!-- HTML -->
-<a href="https://developer.mozilla.org/es/docs/Web/CSS">
-<img align="left" alt="HTML" width="26px" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=b31919" />
+<a href="">
+<img align="left" alt="HTML" width="26px" src="https://icongr.am/devicon/html5-original.svg?size=148&color=b31919" />
 </a>
 
 <!-- CSS -->
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
 <img align="left" alt="CSS" width="26px" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=b31919" />
+</a>
+
+<!--Bootstrap-->
+<a href="">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=51388a" />
 </a>
 
 <!--Js-->

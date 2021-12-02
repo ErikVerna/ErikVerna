@@ -21,7 +21,7 @@
 
 <hr />
 
-### Languages and tools that I am familiar with
+### Languages and tools that I am familiar with:
 
 <!-- GIT -->
 <a href="https://git-scm.com/">

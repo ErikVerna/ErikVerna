@@ -20,5 +20,5 @@
 
 <!-- CSS -->
 
-<img align="left" alt="CSS" width="22px" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=b31919" />
+<img align="left" alt="CSS" width="22px" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=148&color=b31919" />
 </a>

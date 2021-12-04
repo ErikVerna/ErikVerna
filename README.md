@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning React.Js
-- 👯 I’m open to work
+- 🤝 I’m open to work
 - 📫 How to reach me: 
 
 <a href="mailto:vernaerik@gmail.com">

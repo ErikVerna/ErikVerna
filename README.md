@@ -40,8 +40,13 @@
 </a>
 
 <!--Bootstrap-->
-<a href="">
+<a href="https://getbootstrap.com/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=51388a" />
+</a>
+
+<!--TailwindCSS-->
+<a href="https://tailwindcss.com/">
+<img align="left" alt="" width="26px" src="https://res.cloudinary.com/arcjet-media/image/upload/c_scale,w_256/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" />
 </a>
 
 <!--Js-->

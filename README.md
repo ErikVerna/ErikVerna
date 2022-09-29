@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning React.Js
-- 💼 Currently workint at Scale AI as QA Lead
+- 💼 Currently working at <a href="https://scale.com/">Scale AI</a> as QA Lead
 - 📫 How to reach me: 
 
 <a href="mailto:vernaerik@gmail.com">

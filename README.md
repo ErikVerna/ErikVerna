@@ -1,7 +1,7 @@
-## Hello there!.   I´m Erik 👋, a Trainee Web Developer!
+## Hello there!.   I´m Erik 👋, a QA Automation student!
 
 
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning Selenium
 - 💼 Currently working at <a href="https://scale.com/">Scale AI</a> as QA Lead
 - 📫 How to reach me: 
 

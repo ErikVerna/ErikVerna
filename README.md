@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Selenium
-- 💼 Currently working at <a href="https://scale.com/">Scale AI</a> as QA Lead
+- 💼 Last Position as QA Lead at <a href="https://scale.com/">Scale AI</a> 
 - 📫 How to reach me: 
 
 <a href="mailto:vernaerik@gmail.com">

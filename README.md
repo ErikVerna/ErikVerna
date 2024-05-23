@@ -53,11 +53,6 @@
 <img align="left" alt="CSS" width="26px" src="https://icongr.am/devicon/typescript-original.svg?size=148&color=b31919" />
 </a>
 
-<!-- React -->
-<a href="https://es.reactjs.org/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/react-original.svg?size=148&color=b31919" />
-</a>
-
 <!-- JAVA -->
 <a href="https://www.java.com/es/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-original.svg?size=128&color=1b460c" />

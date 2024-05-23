@@ -1,7 +1,7 @@
 ## Hello there!.   I´m Erik 👋, a QA Automation student!
 
 
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning Cucumber and Selenium
 - 💼 Last Position as QA Lead at <a href="https://scale.com/">Scale AI</a> 
 - 📫 How to reach me: 
 
@@ -28,7 +28,6 @@
 <img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original.svg?size=148&color=b31919" />
 </a>
 
-
 <!-- HTML -->
 <a href="https://developer.mozilla.org/es/docs/Web/HTML">
 <img align="left" alt="HTML" width="26px" src="https://icongr.am/devicon/html5-original.svg?size=148&color=b31919" />
@@ -37,11 +36,6 @@
 <!-- CSS -->
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
 <img align="left" alt="CSS" width="26px" src="https://icongr.am/devicon/css3-original.svg?size=148&color=51388a" />
-</a>
-
-<!--Bootstrap-->
-<a href="https://getbootstrap.com/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=51388a" />
 </a>
 
 <!--TailwindCSS-->
@@ -62,6 +56,35 @@
 <!-- React -->
 <a href="https://es.reactjs.org/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/react-original.svg?size=148&color=b31919" />
+</a>
+
+<!-- JAVA -->
+<a href="https://www.java.com/es/">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=b31919" />
+</a>
+
+<!-- REST Assured -->
+<a href="https://rest-assured.io/">
+<img align="left" alt="" width="26px" src="https://rest-assured.io/img/logo-transparent.png" />
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=b31919" />
+</a>
+
+<!-- Postman-->
+<a href="https://www.postman.com/">
+<img align="left" alt="" width="26px" src="" />
+</a>
+
+<!-- Cucumber -->
+<a href="https://www.mysql.com/">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=b31919" />
+</a>
+<!-- Selenium -->
+<a href="https://www.mysql.com/">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=b31919" />
 </a>
 
 

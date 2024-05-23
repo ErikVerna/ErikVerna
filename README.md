@@ -3,21 +3,8 @@
 
 - 🌱 I’m currently learning Cucumber and Selenium
 - 💼 Last Position as QA Lead at <a href="https://scale.com/">Scale AI</a> 
-- 📫 How to reach me: 
-
-<a href="mailto:vernaerik@gmail.com">
-<img align="left" alt="Erik Verna Gmail" width="22px" src="https://icongr.am/octicons/mail.svg?size=148&color=5799c1" />
-</a>
-
-<a href="https://www.linkedin.com/in/erik-tom%C3%A1s-verna-a221151b1/">
-<img align="left" alt="Erik Verna LnkIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
-
-<a href="https://www.instagram.com/erikvernaa/">
-<img align="left" alt="Erik Verna IG" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
-
-<br />
+- 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/erikverna/"> 
+  <img align="center" alt="Erik Verna Linkedin" width="24px" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=70c8ff"/></a>&nbsp;&nbsp;  <a href="mailto:vernaerik@gmail.com"> <img align="center" alt="Erik Verna Gmail" width="24px" src="https://camo.githubusercontent.com/0a393ea79983e45f35f310d10e98e0aa4741139b1a32038e3afa618c212a13ad/68747470733a2f2f69636f6e67722e616d2f6f637469636f6e732f6d61696c2e7376673f73697a653d31343826636f6c6f723d353739396331" /></a>
 
 <hr />
 
@@ -77,6 +64,11 @@
 <a href="https://www.selenium.dev/">
 <img align="left" alt="" width="26px" src="https://www.svgrepo.com/show/354321/selenium.svg" />
 </a>
+<br />
+
+<hr />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ErikVerna&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikVerna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 

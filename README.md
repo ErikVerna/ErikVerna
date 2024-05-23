@@ -68,23 +68,24 @@
 <img align="left" alt="" width="26px" src="https://rest-assured.io/img/logo-transparent.png" />
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=128&color=b31919" />
+<!-- SQLite -->
+<a href="https://www.sqlite.org/">
+<img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png?20130711220928" />
 </a>
 
 <!-- Postman-->
 <a href="https://www.postman.com/">
-<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
 </a>
 
 <!-- Cucumber -->
-<a href="https://www.mysql.com/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=b31919" />
+<a href="https://cucumber.io/">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=currentColor" />
 </a>
+
 <!-- Selenium -->
-<a href="https://www.mysql.com/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=b31919" />
+<a href="https://www.selenium.dev/">
+<img align="left" alt="" width="26px" src="https://www.svgrepo.com/show/354321/selenium.svg" />
 </a>
 
 

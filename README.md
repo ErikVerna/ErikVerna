@@ -60,7 +60,7 @@
 
 <!-- JAVA -->
 <a href="https://www.java.com/es/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-plain-wordmark.svg?size=128&color=b31919" />
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-original.svg?size=128&color=1b460c" />
 </a>
 
 <!-- REST Assured -->
@@ -80,7 +80,7 @@
 
 <!-- Cucumber -->
 <a href="https://cucumber.io/">
-<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=currentColor" />
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=1b460c" />
 </a>
 
 <!-- Selenium -->

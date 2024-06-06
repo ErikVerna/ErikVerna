@@ -1,4 +1,5 @@
-## Hello there! I´m Erik 👋, a QA Engineer and QA Automation student!
+# Hello there 👋!
+## I´m Erik , a QA Engineer and QA Automation student!
 
 - 🌱 I’m currently learning Cucumber and Selenium
 - 💼 Last Position as QA Lead at <a href="https://scale.com/">Scale AI</a> 

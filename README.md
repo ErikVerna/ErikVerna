@@ -1,5 +1,4 @@
-## Hello there!.   I´m Erik 👋, a QA Automation student!
-
+## Hello there! I´m Erik 👋, a QA Engineer and QA Automation student!
 
 - 🌱 I’m currently learning Cucumber and Selenium
 - 💼 Last Position as QA Lead at <a href="https://scale.com/">Scale AI</a> 
@@ -39,6 +38,12 @@
 <a href="https://www.java.com/es/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-original.svg?size=128&color=1b460c" />
 </a>
+
+<!-- Maven -->
+<a href="https://maven.apache.org/">
+<img align="left" alt="" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s" />
+</a>
+
 
 <!-- REST Assured -->
 <a href="https://rest-assured.io/">

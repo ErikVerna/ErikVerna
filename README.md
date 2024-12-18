@@ -1,7 +1,7 @@
 # <<Hello World!>> 👋!
-## I´m Erik , a QA Engineer and QA Automation student!
+## I´m Erik , a QA Lead and QA Automation student!
 
-- 🌱 I’m currently learning Cucumber and Selenium
+- 🌱 I’m currently learning Python
 - 💼 Current Position as AI Trainer at <a href="https://outlier.ai/">Outlier AI</a> 
 - 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/erikverna/"> 
   <img align="center" alt="Erik Verna Linkedin" width="24px" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=70c8ff"/></a>&nbsp;&nbsp;  <a href="mailto:vernaerik@gmail.com"> <img align="center" alt="Erik Verna Gmail" width="24px" src="https://icongr.am/entypo/email.svg?size=128&color=1564cb" /></a>

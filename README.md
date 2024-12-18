@@ -2,9 +2,9 @@
 ## I´m Erik , a QA Engineer and QA Automation student!
 
 - 🌱 I’m currently learning Cucumber and Selenium
-- 💼 Last Position as QA Lead at <a href="https://scale.com/">Scale AI</a> 
+- 💼 Current Position as AI Trainer at <a href="https://outlier.ai/">Outlier AI</a> 
 - 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/erikverna/"> 
-  <img align="center" alt="Erik Verna Linkedin" width="24px" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=70c8ff"/></a>&nbsp;&nbsp;  <a href="mailto:vernaerik@gmail.com"> <img align="center" alt="Erik Verna Gmail" width="24px" src="https://camo.githubusercontent.com/0a393ea79983e45f35f310d10e98e0aa4741139b1a32038e3afa618c212a13ad/68747470733a2f2f69636f6e67722e616d2f6f637469636f6e732f6d61696c2e7376673f73697a653d31343826636f6c6f723d353739396331" /></a>
+  <img align="center" alt="Erik Verna Linkedin" width="24px" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=70c8ff"/></a>&nbsp;&nbsp;  <a href="mailto:vernaerik@gmail.com"> <img align="center" alt="Erik Verna Gmail" width="24px" src="https://icongr.am/entypo/email.svg?size=128&color=1564cb" /></a>
 
 <hr />
 
@@ -38,6 +38,11 @@
 <!-- JAVA -->
 <a href="https://www.java.com/es/">
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/java-original.svg?size=128&color=1b460c" />
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/">
+<img align="left" alt="" width="26px" src="https://icongr.am/devicon/python-original.svg?size=122&color=1564cb" />
 </a>
 
 <!-- Maven -->

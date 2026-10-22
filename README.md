@@ -5,7 +5,7 @@
 - 🧑🏻‍💻 Studying Systems Analyst technical degree at IFTS 4 (Buenos Aires - Argentina)
 - 💼 Current Position as AI Trainer at <a href="https://outlier.ai/">Outlier AI</a> 
 - 📫 How to reach me:  &nbsp; <a href="https://www.linkedin.com/in/erikverna/"> 
-  <img align="center" alt="Erik Verna Linkedin" width="24px" src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=70c8ff"/></a>&nbsp;&nbsp;  <a href="mailto:vernaerik@gmail.com"> <img align="center" alt="Erik Verna Gmail" width="24px" src="https://icongr.am/entypo/email.svg?size=128&color=1564cb" /></a>
+  <img align="center" alt="Erik Verna Linkedin" width="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrF3zyv6McczN653khKPc5QfLUTBPKkVs46Bq8xjwV7OJa4BieTsS38yDs&s=10"/></a>&nbsp;&nbsp;  <a href="mailto:vernaerik@gmail.com"> <img align="center" alt="Erik Verna Gmail" width="24px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" /></a>
 
 <hr />
 
@@ -13,17 +13,17 @@
 
 <!-- GIT -->
 <a href="https://git-scm.com/">
-<img align="left" alt="Git" width="26px" src="https://icongr.am/devicon/git-original.svg?size=148&color=b31919" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </a>
 
 <!-- HTML -->
 <a href="https://developer.mozilla.org/es/docs/Web/HTML">
-<img align="left" alt="HTML" width="26px" src="https://icongr.am/devicon/html5-original.svg?size=148&color=b31919" />
+<img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
 </a>
 
 <!-- CSS -->
 <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-<img align="left" alt="CSS" width="26px" src="https://icongr.am/devicon/css3-original.svg?size=148&color=51388a" />
+<img align="left" alt="CSS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
 </a>
 
 <!--TailwindCSS-->
@@ -33,7 +33,7 @@
 
 <!--Js-->
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-<img align="left" alt="javascript" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=b31919" />
+<img align="left" alt="javascript" width="26px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" />
 </a>
 
 <!-- JAVA -->
